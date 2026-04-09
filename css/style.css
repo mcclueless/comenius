@@ -555,7 +555,7 @@ footer {
 }
 
 .nro-logo {
-    width: 80px;
+    width: 160px;
     height: auto;
     flex-shrink: 0;
 }
@@ -568,7 +568,7 @@ footer {
     }
     
     .nro-logo {
-        width: 70px;
+        width: 140px;
         margin-bottom: 1rem;
     }
 }
